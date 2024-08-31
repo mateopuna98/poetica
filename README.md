@@ -1,8 +1,5 @@
 # Poetica
-
-    A programming language that you need to write in form of spanish poems.
-    This is a project I am building in my free time (to the unlikes of my girlfriend) for the sake of my love to art and programming.               
-      
+´´´
                    
                    ___          ___                              ___          ___     
       ___         /  /\        /  /\     ___          ___       /  /\        /  /\    
@@ -15,7 +12,7 @@
       \  \::/   \  \:\/:/    \  \:\_\//__/:/      \  \:\      \  \:\          /  /:/  
        \__\/     \  \::/      \  \:\  \__\/        \__\/       \  \:\        /__/:/   
                   \__\/        \__\/                            \__\/        \__\/ 
-
+´´´
 
 
 
