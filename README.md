@@ -1,2 +1,19 @@
-# poetica
-A programming language that you need to write in form of spanish poems
+# Poetica
+
+                    ___           ___                                      ___           ___     
+      ___          /  /\         /  /\          ___            ___        /  /\         /  /\    
+     /  /\        /  /::\       /  /::\        /__/\          /__/\      /  /::\       /  /::\   
+    /  /::\      /  /:/\:\     /  /:/\:\       \  \:\         \__\:\    /  /:/\:\     /  /:/\:\  
+   /  /:/\:\    /  /:/  \:\   /  /::\ \:\       \__\:\        /  /::\  /  /:/  \:\   /  /::\ \:\ 
+  /  /::\ \:\  /__/:/ \__\:\ /__/:/\:\ \:\      /  /::\    __/  /:/\/ /__/:/ \  \:\ /__/:/\:\_\:\
+ /__/:/\:\_\:\ \  \:\ /  /:/ \  \:\ \:\_\/     /  /:/\:\  /__/\/:/~~  \  \:\  \__\/ \__\/  \:\/:/
+ \__\/  \:\/:/  \  \:\  /:/   \  \:\ \:\      /  /:/__\/  \  \::/      \  \:\            \__\::/ 
+      \  \::/    \  \:\/:/     \  \:\_\/     /__/:/        \  \:\       \  \:\           /  /:/  
+       \__\/      \  \::/       \  \:\       \__\/          \__\/        \  \:\         /__/:/   
+                   \__\/         \__\/                                    \__\/         \__\/ 
+
+A programming language that you need to write in form of spanish poems.
+
+This is a project I am building in my free time (to the unlikes of my girlfriend) for the sake of my love to art and programming.
+
+
